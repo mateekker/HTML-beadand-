@@ -11,10 +11,10 @@
 - Legyen benne olyan link is, ami egy új oldalra visz, de azt új oldalon nyitja meg	1		1
 - Legyen benne olyan link, ami egy szakaszra mutat (egy h2-esre pl.)	1		2
 			
-- Legyen benne táblázat, amelynek legalább 2 oszlopa és legalább 5 sora van! <table>...			3
+- Legyen benne táblázat, amelynek legalább 2 oszlopa és legalább 5 sora van!
 - Legyen a táblázatban cellaösszevonás!			2
 - Legyen a táblázatnak cellpadding, cellspacing tulajdonsága is!			2
-- Legyen a táblázatnak címsora is <th>			1
+- Legyen a táblázatnak címsora is
 			
 - Az oldal álljon egy középső main elemből, ami középre van igazítva			2
 			
@@ -24,7 +24,7 @@
 			
 - Legyen az oldalon valahol egy felsorolás			3
 			
-- Legyen az oldalon valahol egy vízszintes vonal <hr>, amelynek a szélessége nem egyezik meg az oldal szélésségével			2
+- Legyen az oldalon valahol egy vízszintes vonal , amelynek a szélessége nem egyezik meg az oldal szélésségével			2
 			
 - Legyen az oldalon egy nav bar, amiben navigáló linkek vannak!			2
 - Legyen az oldalon header! Ebben szerepeljen az oldal címe is!			1
