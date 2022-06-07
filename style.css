@@ -60,6 +60,10 @@ main{
     width:72px;
     height:78px;
 }
+.logo:hover{
+    
+    
+}
 table.teams tr.conference th{
     font-size: 2em;
 }
@@ -68,11 +72,12 @@ table.teams tr.division th{
 }
 
 .team-card a{
-    color:blue;
+    color:rgb(0, 0, 0);
     text-decoration: none;
 }
 .team-card a:hover{
     text-decoration: underline;
+    color:brown;
 }
 
 .team-logo{
@@ -169,4 +174,16 @@ table.teams tr.division th{
 main>h1{
     font-family: century;
     text-align: center;
+}
+.posts{
+    font-family: 'century';
+}
+.posts a{
+    font-size:1.2em;
+    color:black;
+    text-decoration: none;
+}
+.posts a:hover{
+    text-decoration: underline;
+    color:brown;
 }
