@@ -60,10 +60,7 @@ main{
     width:72px;
     height:78px;
 }
-.logo:hover{
-    
-    
-}
+
 table.teams tr.conference th{
     font-size: 2em;
 }
@@ -186,4 +183,38 @@ main>h1{
 .posts a:hover{
     text-decoration: underline;
     color:brown;
+}
+.me {
+    margin: 150px auto;
+    width: 50%;
+    padding: 8px;
+}
+.me img{
+    float: left;
+    height:200px;
+    width:140px;
+    padding:0 10px 0 0;
+}
+
+.me-text{
+    text-align: justify;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.attention{
+    font-family: century;
+    text-decoration: none;
+    background-color: black;
+    color: yellow;
+}
+.attention:hover{
+    text-decoration: underline;
+    color: red;
+}
+.wrong i{
+    align-content: center;
+    width:1000px;
+    height:1000px;
+
 }
