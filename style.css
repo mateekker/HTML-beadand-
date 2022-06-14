@@ -36,7 +36,8 @@ nav{
     justify-content: center;
     flex-direction: raw; 
     margin: 0;
-
+    top:0px;
+    position: sticky;
 }
 
 nav a,
@@ -174,6 +175,8 @@ table.teams tr.division th{
 main>h1{
     font-family: century;
     text-align: center;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
 }
 .posts{
     font-family: 'century';
