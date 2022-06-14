@@ -191,7 +191,7 @@ main>h1{
     color:brown;
 }
 .me {
-    margin: 150px auto;
+    margin:auto;
     width: 50%;
     padding: 8px;
 }
@@ -212,11 +212,16 @@ main>h1{
     font-family: century;
     text-decoration: none;
     background-color: black;
+    display:flex;
+    justify-content: center;
+    padding: 10px;
     color: yellow;
 }
 .attention:hover{
     text-decoration: underline;
     color: red;
+    border-radius: 10px;
+    transition: 10ms;
 }
 .wrong{
     width: 100vw;
@@ -236,5 +241,4 @@ main>h1{
     text-decoration: underline;
     color: brown;
 }
-
 
